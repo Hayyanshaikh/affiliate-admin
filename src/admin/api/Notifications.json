@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "message": "New sale! You earned $10 in commission.",
+      "timestamp": "2023-10-26T10:30:00Z"
+    },
+    {
+      "id": 2,
+      "message": "Your affiliate account has been approved.",
+      "timestamp": "2023-10-25T15:45:00Z"
+    },
+    {
+      "id": 3,
+      "message": "Product XYZ is trending! Share your affiliate link now.",
+      "timestamp": "2023-10-24T08:20:00Z"
+    },
+    {
+      "id": 4,
+      "message": "Congratulations! You've reached a milestone of 100 referrals.",
+      "timestamp": "2023-10-23T14:10:00Z"
+    }
+  ]

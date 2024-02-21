@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "name": "Pakistan",
+    "code": "PK",
+    "states": [
+      {
+        "id": 101,
+        "name": "Sindh",
+        "code": "SD",
+        "cities": [
+          {"id": 1001, "name": "Karachi", "code": "KR"},
+          {"id": 1002, "name": "Hyderabad", "code": "HD"}
+        ]
+      },
+      {
+        "id": 102,
+        "name": "Punjab",
+        "code": "PB",
+        "cities": [
+          {"id": 1003, "name": "Lahore", "code": "LH"},
+          {"id": 1004, "name": "Rawalpindi", "code": "RW"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "India",
+    "code": "IN",
+    "states": [
+      {
+        "id": 201,
+        "name": "Maharashtra",
+        "code": "MH",
+        "cities": [
+          {"id": 2001, "name": "Mumbai", "code": "MB"},
+          {"id": 2002, "name": "Pune", "code": "PN"}
+        ]
+      },
+      {
+        "id": 202,
+        "name": "Delhi",
+        "code": "DL",
+        "cities": [
+          {"id": 2003, "name": "New Delhi", "code": "ND"},
+          {"id": 2004, "name": "Noida", "code": "NO"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "United States",
+    "code": "US",
+    "states": [
+      {
+        "id": 301,
+        "name": "California",
+        "code": "CA",
+        "cities": [
+          {"id": 3001, "name": "Los Angeles", "code": "LA"},
+          {"id": 3002, "name": "San Francisco", "code": "SF"}
+        ]
+      },
+      {
+        "id": 302,
+        "name": "New York",
+        "code": "NY",
+        "cities": [
+          {"id": 3003, "name": "New York City", "code": "NYC"},
+          {"id": 3004, "name": "Buffalo", "code": "BF"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "United Kingdom",
+    "code": "UK",
+    "states": [
+      {
+        "id": 401,
+        "name": "England",
+        "code": "ENG",
+        "cities": [
+          {"id": 4001, "name": "London", "code": "LDN"},
+          {"id": 4002, "name": "Manchester", "code": "MCR"}
+        ]
+      },
+      {
+        "id": 402,
+        "name": "Scotland",
+        "code": "SCO",
+        "cities": [
+          {"id": 4003, "name": "Edinburgh", "code": "EDB"},
+          {"id": 4004, "name": "Glasgow", "code": "GLA"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Canada",
+    "code": "CA",
+    "states": [
+      {
+        "id": 501,
+        "name": "Ontario",
+        "code": "ON",
+        "cities": [
+          {"id": 5001, "name": "Toronto", "code": "TOR"},
+          {"id": 5002, "name": "Ottawa", "code": "OTW"}
+        ]
+      },
+      {
+        "id": 502,
+        "name": "Quebec",
+        "code": "QC",
+        "cities": [
+          {"id": 5003, "name": "Montreal", "code": "MON"},
+          {"id": 5004, "name": "Quebec City", "code": "QBC"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Australia",
+    "code": "AU",
+    "states": [
+      {
+        "id": 601,
+        "name": "New South Wales",
+        "code": "NSW",
+        "cities": [
+          {"id": 6001, "name": "Sydney", "code": "SYD"},
+          {"id": 6002, "name": "Newcastle", "code": "NCL"}
+        ]
+      },
+      {
+        "id": 602,
+        "name": "Victoria",
+        "code": "VIC",
+        "cities": [
+          {"id": 6003, "name": "Melbourne", "code": "MLB"},
+          {"id": 6004, "name": "Geelong", "code": "GEL"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Germany",
+    "code": "DE",
+    "states": [
+      {
+        "id": 701,
+        "name": "Bavaria",
+        "code": "BY",
+        "cities": [
+          {"id": 7001, "name": "Munich", "code": "MUC"},
+          {"id": 7002, "name": "Nuremberg", "code": "NUR"}
+        ]
+      },
+      {
+        "id": 702,
+        "name": "Berlin",
+        "code": "BE",
+        "cities": [
+          {"id": 7003, "name": "Berlin City", "code": "BRL"},
+          {"id": 7004, "name": "Potsdam", "code": "POT"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Japan",
+    "code": "JP",
+    "states": [
+      {
+        "id": 801,
+        "name": "Tokyo",
+        "code": "TKY",
+        "cities": [
+          {"id": 8001, "name": "Shinjuku", "code": "SNJ"},
+          {"id": 8002, "name": "Shibuya", "code": "SHB"}
+        ]
+      },
+      {
+        "id": 802,
+        "name": "Osaka",
+        "code": "OSK",
+        "cities": [
+          {"id": 8003, "name": "Osaka City", "code": "OSC"},
+          {"id": 8004, "name": "Sakai", "code": "SAK"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Brazil",
+    "code": "BR",
+    "states": [
+      {
+        "id": 901,
+        "name": "Sao Paulo",
+        "code": "SP",
+        "cities": [
+          {"id": 9001, "name": "Sao Paulo City", "code": "SPC"},
+          {"id": 9002, "name": "Guarulhos", "code": "GUA"}
+        ]
+      },
+      {
+        "id": 902,
+        "name": "Rio de Janeiro",
+        "code": "RJ",
+        "cities": [
+          {"id": 9003, "name": "Rio de Janeiro City", "code": "RJC"},
+          {"id": 9004, "name": "Niteroi", "code": "NIT"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "France",
+    "code": "FR",
+    "states": [
+      {
+        "id": 1001,
+        "name": "Ile-de-France",
+        "code": "IF",
+        "cities": [
+          {"id": 10001, "name": "Paris", "code": "PRS"},
+          {"id": 10002, "name": "Versailles", "code": "VRS"}
+        ]
+      },
+      {
+        "id": 1002,
+        "name": "Provence-Alpes-Cote d'Azur",
+        "code": "PAC",
+        "cities": [
+          {"id": 10003, "name": "Marseille", "code": "MRS"},
+          {"id": 10004, "name": "Nice", "code": "NIC"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Mexico",
+    "code": "MX",
+    "states": [
+      {
+        "id": 1101,
+        "name": "Mexico City",
+        "code": "MEX",
+        "cities": [
+          {"id": 11001, "name": "Mexico City Center", "code": "MCC"},
+          {"id": 11002, "name": "Coyoacan", "code": "COY"}
+        ]
+      },
+      {
+        "id": 1102,
+        "name": "Jalisco",
+        "code": "JAL",
+        "cities": [
+          {"id": 11003, "name": "Guadalajara", "code": "GDL"},
+          {"id": 11004, "name": "Zapopan", "code": "ZAP"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "South Africa",
+    "code": "ZA",
+    "states": [
+      {
+        "id": 1201,
+        "name": "Gauteng",
+        "code": "GT",
+        "cities": [
+          {"id": 12001, "name": "Johannesburg", "code": "JHB"},
+          {"id": 12002, "name": "Pretoria", "code": "PTA"}
+        ]
+      },
+      {
+        "id": 1202,
+        "name": "Western Cape",
+        "code": "WC",
+        "cities": [
+          {"id": 12003, "name": "Cape Town", "code": "CTN"},
+          {"id": 12004, "name": "Stellenbosch", "code": "STB"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Russia",
+    "code": "RU",
+    "states": [
+      {
+        "id": 1301,
+        "name": "Moscow",
+        "code": "MOW",
+        "cities": [
+          {"id": 13001, "name": "Moscow City Center", "code": "MCC"},
+          {"id": 13002, "name": "Zelenograd", "code": "ZEL"}
+        ]
+      },
+      {
+        "id": 1302,
+        "name": "St. Petersburg",
+        "code": "SPB",
+        "cities": [
+          {"id": 13003, "name": "St. Petersburg Center", "code": "SPC"},
+          {"id": 13004, "name": "Pushkin", "code": "PSK"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Spain",
+    "code": "ES",
+    "states": [
+      {
+        "id": 1401,
+        "name": "Madrid",
+        "code": "MAD",
+        "cities": [
+          {"id": 14001, "name": "Madrid City Center", "code": "MCC"},
+          {"id": 14002, "name": "Barajas", "code": "BRJ"}
+        ]
+      },
+      {
+        "id": 1402,
+        "name": "Catalonia",
+        "code": "CAT",
+        "cities": [
+          {"id": 14003, "name": "Barcelona", "code": "BCN"},
+          {"id": 14004, "name": "Girona", "code": "GIR"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Italy",
+    "code": "IT",
+    "states": [
+      {
+        "id": 1501,
+        "name": "Lazio",
+        "code": "LA",
+        "cities": [
+          {"id": 150101, "name": "Rome", "code": "RM"},
+          {"id": 150102, "name": "Latina", "code": "LT"}
+        ]
+      },
+      {
+        "id": 1502,
+        "name": "Lombardy",
+        "code": "LO",
+        "cities": [
+          {"id": 150201, "name": "Milan", "code": "MI"},
+          {"id": 150202, "name": "Bergamo", "code": "BG"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Netherlands",
+    "code": "NL",
+    "states": [
+      {
+        "id": 1601,
+        "name": "North Holland",
+        "code": "NH",
+        "cities": [
+          {"id": 160101, "name": "Amsterdam", "code": "AM"},
+          {"id": 160102, "name": "Haarlem", "code": "HA"}
+        ]
+      },
+      {
+        "id": 1602,
+        "name": "South Holland",
+        "code": "SH",
+        "cities": [
+          {"id": 160201, "name": "Rotterdam", "code": "RT"},
+          {"id": 160202, "name": "The Hague", "code": "TH"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Argentina",
+    "code": "AR",
+    "states": [
+      {
+        "id": 1701,
+        "name": "Buenos Aires",
+        "code": "BA",
+        "cities": [
+          {"id": 170101, "name": "Buenos Aires City Center", "code": "BAC"},
+          {"id": 170102, "name": "La Plata", "code": "LP"}
+        ]
+      },
+      {
+        "id": 1702,
+        "name": "Cordoba",
+        "code": "CO",
+        "cities": [
+          {"id": 170201, "name": "Cordoba City", "code": "CC"},
+          {"id": 170202, "name": "Villa Maria", "code": "VM"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Turkey",
+    "code": "TR",
+    "states": [
+      {
+        "id": 1801,
+        "name": "Istanbul",
+        "code": "IS",
+        "cities": [
+          {"id": 180101, "name": "Istanbul City Center", "code": "ICC"},
+          {"id": 180102, "name": "Beyoglu", "code": "BY"}
+        ]
+      },
+      {
+        "id": 1802,
+        "name": "Ankara",
+        "code": "AN",
+        "cities": [
+          {"id": 180201, "name": "Ankara City Center", "code": "ACC"},
+          {"id": 180202, "name": "Kecioren", "code": "KEC"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Thailand",
+    "code": "TH",
+    "states": [
+      {
+        "id": 1901,
+        "name": "Bangkok",
+        "code": "BK",
+        "cities": [
+          {"id": 190101, "name": "Bangkok City Center", "code": "BCC"},
+          {"id": 190102, "name": "Sukhumvit", "code": "SK"}
+        ]
+      },
+      {
+        "id": 1902,
+        "name": "Phuket",
+        "code": "PH",
+        "cities": [
+          {"id": 190201, "name": "Phuket City", "code": "PC"},
+          {"id": 190202, "name": "Patong", "code": "PT"}
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Egypt",
+    "code": "EG",
+    "states": [
+      {
+        "id": 2001,
+        "name": "Cairo",
+        "code": "CA",
+        "cities": [
+          {"id": 200101, "name": "Cairo City Center", "code": "CCC"},
+          {"id": 200102, "name": "Giza", "code": "GZ"}
+        ]
+      },
+      {
+        "id": 2002,
+        "name": "Alexandria",
+        "code": "AL",
+        "cities": [
+          {"id": 200201, "name": "Alexandria City Center", "code": "ACC"},
+          {"id": 200202, "name": "Gleem", "code": "GL"}
+        ]
+      }
+    ]
+  }
+]

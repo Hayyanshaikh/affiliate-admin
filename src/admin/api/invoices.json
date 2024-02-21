@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "invoiceNumber": "INV12345",
+        "date": "2023-11-01",
+        "paymentID": "PAY00001",
+        "paymentMethod": "Credit Card",
+        "amount": 200.00,
+        "lcRevshare": 50.00,
+        "paidAmount": 200.00,
+        "paidDate": "2023-11-02",
+        "status": "Paid"
+    },
+    {
+        "id": 2,
+        "invoiceNumber": "INV12346",
+        "date": "2023-11-03",
+        "paymentID": "PAY00002",
+        "paymentMethod": "PayPal",
+        "amount": 300.00,
+        "lcRevshare": 60.00,
+        "paidAmount": 300.00,
+        "paidDate": "2023-11-04",
+        "status": "Unpaid"
+    },
+    {
+        "id": 3,
+        "invoiceNumber": "INV12347",
+        "date": "2023-11-05",
+        "paymentID": "PAY00003",
+        "paymentMethod": "Debit Card",
+        "amount": 400.00,
+        "lcRevshare": 80.00,
+        "paidAmount": 400.00,
+        "paidDate": "2023-11-06",
+        "status": "Paid"
+    },
+    {
+        "id": 4,
+        "invoiceNumber": "INV12348",
+        "date": "2023-11-07",
+        "paymentID": "PAY00004",
+        "paymentMethod": "Credit Card",
+        "amount": 250.00,
+        "lcRevshare": 60.00,
+        "paidAmount": 250.00,
+        "paidDate": "2023-11-08",
+        "status": "Unpaid"
+    },
+    {
+        "id": 5,
+        "invoiceNumber": "INV12349",
+        "date": "2023-11-09",
+        "paymentID": "PAY00005",
+        "paymentMethod": "PayPal",
+        "amount": 350.00,
+        "lcRevshare": 70.00,
+        "paidAmount": 350.00,
+        "paidDate": "2023-11-10",
+        "status": "Paid"
+    },
+    {
+        "id": 6,
+        "invoiceNumber": "INV12350",
+        "date": "2023-11-11",
+        "paymentID": "PAY00006",
+        "paymentMethod": "Debit Card",
+        "amount": 280.00,
+        "lcRevshare": 55.00,
+        "paidAmount": 280.00,
+        "paidDate": "2023-11-12",
+        "status": "Paid"
+    },
+    {
+        "id": 7,
+        "invoiceNumber": "INV12351",
+        "date": "2023-11-13",
+        "paymentID": "PAY00007",
+        "paymentMethod": "Credit Card",
+        "amount": 320.00,
+        "lcRevshare": 70.00,
+        "paidAmount": 320.00,
+        "paidDate": "2023-11-14",
+        "status": "Unpaid"
+    },
+    {
+        "id": 8,
+        "invoiceNumber": "INV12352",
+        "date": "2023-11-15",
+        "paymentID": "PAY00008",
+        "paymentMethod": "PayPal",
+        "amount": 380.00,
+        "lcRevshare": 75.00,
+        "paidAmount": 380.00,
+        "paidDate": "2023-11-16",
+        "status": "Unpaid"
+    },
+    {
+        "id": 9,
+        "invoiceNumber": "INV12353",
+        "date": "2023-11-17",
+        "paymentID": "PAY00009",
+        "paymentMethod": "Debit Card",
+        "amount": 420.00,
+        "lcRevshare": 85.00,
+        "paidAmount": 420.00,
+        "paidDate": "2023-11-18",
+        "status": "Paid"
+    },
+    {
+        "id": 10,
+        "invoiceNumber": "INV12354",
+        "date": "2023-11-19",
+        "paymentID": "PAY00010",
+        "paymentMethod": "Credit Card",
+        "amount": 300.00,
+        "lcRevshare": 65.00,
+        "paidAmount": 300.00,
+        "paidDate": "2023-11-20",
+        "status": "Unpaid"
+    }
+]

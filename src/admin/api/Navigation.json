@@ -1,0 +1,64 @@
+[
+  {
+    "label": "Dashboard",
+    "url": "dashboard"
+  },
+  {
+    "label": "Advertisers",
+    "url": "advertisers",
+    "submenu": [
+      {
+        "label": "New Advertisers",
+        "url": "new-advertisers"
+      },
+      {
+        "label": "My Advertisers",
+        "url": "my-advertisers"
+      },
+      {
+        "label": "Find Advertisers",
+        "url": "find-advertisers"
+      }
+    ]
+  },
+  {
+    "label": "Reports",
+    "url": "reports",
+    "submenu": [
+      {
+        "label": "Performance",
+        "url": "performance"
+      },
+      {
+        "label": "Transactions",
+        "url": "transactions"
+      }
+    ]
+  },
+  {
+    "label": "Creatives",
+    "url": "creatives",
+    "submenu": [
+      {
+        "label": "Coupons",
+        "url": "coupons"
+      },
+      {
+        "label": "Text Links",
+        "url": "text-links"
+      },
+      {
+        "label": "Deep Links",
+        "url": "deep-links"
+      }
+    ]
+  },
+  {
+    "label": "Tools",
+    "url": "tools"
+  },
+  {
+    "label": "Payments",
+    "url": "payments"
+  }
+]

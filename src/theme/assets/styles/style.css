@@ -1,0 +1,9 @@
+.theme_layout main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.theme_layout main *{
+  font-size: 48px;
+  font-weight: var(--semibold);
+}

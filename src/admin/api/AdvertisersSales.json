@@ -1,0 +1,23 @@
+[
+  {
+    "advertiser_id": 1,
+    "transactions": 150,
+    "saleAmount": 7500.00,
+    "commission": 500.00,
+    "avgPayout": 50.00
+  },
+  {
+    "advertiser_id": 2,
+    "transactions": 200,
+    "saleAmount": 10000.00,
+    "commission": 600.00,
+    "avgPayout": 55.00
+  },
+  {
+    "advertiser_id": 3,
+    "transactions": 180,
+    "saleAmount": 9000.00,
+    "commission": 550.00,
+    "avgPayout": 52.00
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "date": "2023-11-07",
+    "advertiser_id": 1,
+    "transactionid": "123456",
+    "saleamount": 5000.00,
+    "commission": 250.00,
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "date": "2023-11-06",
+    "advertiser_id": 2,
+    "transactionid": "789012",
+    "saleamount": 8000.00,
+    "commission": 400.00,
+    "status": "Pending"
+  },
+  {
+    "id": 3,
+    "date": "2023-11-05",
+    "advertiser_id": 3,
+    "transactionid": "345678",
+    "saleamount": 6000.00,
+    "commission": 300.00,
+    "status": "Completed"
+  },
+  {
+    "id": 4,
+    "date": "2023-11-04",
+    "advertiser_id": 4,
+    "transactionid": "987654",
+    "saleamount": 7500.00,
+    "commission": 350.00,
+    "status": "Pending"
+  },
+  {
+    "id": 5,
+    "date": "2023-11-03",
+    "advertiser_id": 5,
+    "transactionid": "456789",
+    "saleamount": 8500.00,
+    "commission": 450.00,
+    "status": "Completed"
+  },
+  {
+    "id": 6,
+    "date": "2023-11-02",
+    "advertiser_id": 6,
+    "transactionid": "135792",
+    "saleamount": 6200.00,
+    "commission": 310.00,
+    "status": "Pending"
+  }
+]

@@ -1,0 +1,432 @@
+[
+  {
+    "id": 1,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=ESM&font=poppins",
+    "title": "ESM-Computer",
+    "commission": "7%",
+    "region": "DE",
+    "apc": 34,
+    "preferred_promotional": [
+      "Email Marketing",
+      "Social Media",
+      "Email Marketing",
+      "Blog Site",
+      "Content Site",
+      "Coupon Site",
+      "Content Site"
+    ],
+    "restricted": [
+      "PPC Site",
+      "TM+ Bidding"
+    ],
+    "isJoined": true,
+    "about": "ESM-Computer is a large hardware provider that sells professionally refurbished, used hardware in high-quality business quality. The company actively contributes to resource conservation and environmental protection. ESM purchases the hardware from companies after their lease ends (usually after 2-4 years). ESM has been offering affordable, sustainable and first-class IT equipment since 2004. The provider is Trusted Shops certified and also offers a guarantee of up to 3 years on every device purchased in the online shop.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      },
+      {
+        "date": "2023-10-30",
+        "condition": "Sale",
+        "commission_rate": "7%",
+        "additional_info": "Network Rate"
+      },
+      {
+        "date": "2023-11-01",
+        "condition": "Special Promotion",
+        "commission_rate": "10%",
+        "additional_info": "Special Offer"
+      },
+      {
+        "date": "2023-11-15",
+        "condition": "Holiday Sale",
+        "commission_rate": "12%",
+        "additional_info": "Limited Time"
+      },
+      {
+        "date": "2023-12-05",
+        "condition": "Year-End Clearance",
+        "commission_rate": "15%",
+        "additional_info": "Last Chance"
+      }
+    ],
+    "normal_link": "https://example.com/esm-tracking-link",
+    "short_link": "https://exa.mp/esm-short-link",
+    "contact_info": [
+      "info@123gadgets.ca",
+      "+1234567890",
+      "567 Gadget Avenue, Tech Town, CA"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "ESM-Computer",
+        "offer_name": "Special Discount",
+        "creative_name": "ESM123",
+        "offer_code": "ESM123OFF",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-15"
+      },
+      {
+        "id": 2,
+        "advertiser": "ABC Electronics",
+        "offer_name": "New Product Launch",
+        "creative_name": "ABC456",
+        "offer_code": "ABC456NEW",
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-20"
+      },
+      {
+        "id": 3,
+        "advertiser": "XYZ Tech",
+        "offer_name": "Holiday Sale",
+        "creative_name": "XYZ789",
+        "offer_code": "XYZ789HOLIDAY",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-15"
+      }
+    ],
+    "primary_regions": ["DE"],
+    "supported_regions": ["DE", "UK", "US"],
+    "categories": ["Electronics", "Hardware"]
+  },
+  {
+    "id": 2,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=ABC&font=poppins",
+    "title": "ABC Electronics",
+    "commission": "5%",
+    "region": "US",
+    "apc": 28,
+    "preferred_promotional": [
+      "Email Marketing",
+      "Social Media",
+      "Blog Site"
+    ],
+    "restricted": [
+      "PPC Site"
+    ],
+    "isJoined": false,
+    "about": "ABC Electronics is a leading electronic devices manufacturer known for its innovative products. While not yet part of the network, ABC Electronics specializes in creating cutting-edge electronics for various consumer needs.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      },
+      {
+        "date": "2023-11-02",
+        "condition": "New Product Launch",
+        "commission_rate": "8%",
+        "additional_info": "Limited Edition"
+      }
+    ],
+    "normal_link": "https://example.com/abc-tracking-link",
+    "short_link": "https://exa.mp/abc-short-link",
+    "contact_info": [
+      "info@123gadgets.ca",
+      "+1234567890",
+      "567 Gadget Avenue, Tech Town, CA"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "ESM-Computer",
+        "offer_name": "Special Discount",
+        "creative_name": "ESM123",
+        "offer_code": "ESM123OFF",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-15"
+      },
+      {
+        "id": 2,
+        "advertiser": "ABC Electronics",
+        "offer_name": "New Product Launch",
+        "creative_name": "ABC456",
+        "offer_code": "ABC456NEW",
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-20"
+      },
+      {
+        "id": 3,
+        "advertiser": "XYZ Tech",
+        "offer_name": "Holiday Sale",
+        "creative_name": "XYZ789",
+        "offer_code": "XYZ789HOLIDAY",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-15"
+      }
+    ],
+    "primary_regions": ["US"],
+    "supported_regions": ["US", "CA", "UK"],
+    "categories": ["Electronics", "Gadgets"]
+  },
+  {
+    "id": 3,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=XYZ&font=poppins",
+    "title": "XYZ Tech",
+    "commission": "8%",
+    "region": "UK",
+    "apc": 40,
+    "preferred_promotional": [
+      "Social Media",
+      "Content Site"
+    ],
+    "restricted": [
+      "TM+ Bidding"
+    ],
+    "isJoined": false,
+    "about": "XYZ Tech operates in the UK and focuses on providing technological solutions. The company aims to introduce innovative and advanced tech products to the market in the coming days.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      }
+    ],
+    "normal_link": "https://example.com/xyz-tracking-link",
+    "short_link": "https://exa.mp/xyz-short-link",
+    "contact_info": [
+      "info@123gadgets.ca",
+      "+1234567890",
+      "567 Gadget Avenue, Tech Town, CA"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "ESM-Computer",
+        "offer_name": "Special Discount",
+        "creative_name": "ESM123",
+        "offer_code": "ESM123OFF",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-15"
+      },
+      {
+        "id": 2,
+        "advertiser": "ABC Electronics",
+        "offer_name": "New Product Launch",
+        "creative_name": "ABC456",
+        "offer_code": "ABC456NEW",
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-20"
+      },
+      {
+        "id": 3,
+        "advertiser": "XYZ Tech",
+        "offer_name": "Holiday Sale",
+        "creative_name": "XYZ789",
+        "offer_code": "XYZ789HOLIDAY",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-15"
+      }
+    ],
+    "primary_regions": ["UK"],
+    "supported_regions": ["UK", "US", "AU"],
+    "categories": ["Technology", "Innovations"]
+  },
+  {
+    "id": 4,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=123&font=poppins",
+    "title": "123 Gadgets",
+    "commission": "6%",
+    "region": "CA",
+    "apc": 32,
+    "preferred_promotional": [
+      "Email Marketing",
+      "Social Media",
+      "Content Site"
+    ],
+    "restricted": [
+      "PPC Site"
+    ],
+    "isJoined": true,
+    "about": "123 Gadgets is based in Canada and typically offers gadgets suitable for common consumer uses. The company designs and sells new and creative gadgets.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      },
+      {
+        "date": "2023-11-10",
+        "condition": "Holiday Season",
+        "commission_rate": "9%",
+        "additional_info": "Limited Offer"
+      },
+      {
+        "date": "2023-12-01",
+        "condition": "Winter Sale",
+        "commission_rate": "11%",
+        "additional_info": "Seasonal Discount"
+      }
+    ],
+    "normal_link": "https://example.com/123-tracking-link",
+    "short_link": "https://exa.mp/123-short-link",
+    "contact_info": [
+      "info@123gadgets.ca",
+      "+1234567890",
+      "567 Gadget Avenue, Tech Town, CA"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "ESM-Computer",
+        "offer_name": "Special Discount",
+        "creative_name": "ESM123",
+        "offer_code": "ESM123OFF",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-15"
+      },
+      {
+        "id": 2,
+        "advertiser": "ABC Electronics",
+        "offer_name": "New Product Launch",
+        "creative_name": "ABC456",
+        "offer_code": "ABC456NEW",
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-20"
+      },
+      {
+        "id": 3,
+        "advertiser": "XYZ Tech",
+        "offer_name": "Holiday Sale",
+        "creative_name": "XYZ789",
+        "offer_code": "XYZ789HOLIDAY",
+        "start_date": "2023-12-01",
+        "end_date": "2023-12-15"
+      }
+    ],
+    "primary_regions": ["CA"],
+    "supported_regions": ["CA", "US", "UK"],
+    "categories": ["Electronics", "Gadgets"]
+  },
+   {
+    "id": 5,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=Tech&font=poppins",
+    "title": "Tech Innovations",
+    "commission": "6%",
+    "region": "US",
+    "apc": 30,
+    "preferred_promotional": [
+      "Email Marketing",
+      "Social Media",
+      "Content Site"
+    ],
+    "restricted": [
+      "PPC Site"
+    ],
+    "isJoined": true,
+    "about": "Tech Innovations specializes in cutting-edge technology solutions. From smart home devices to innovative gadgets, they strive to bring the latest tech marvels to consumers.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      },
+      {
+        "date": "2023-11-05",
+        "condition": "Holiday Tech Expo",
+        "commission_rate": "8%",
+        "additional_info": "Exclusive Event Offer"
+      },
+      {
+        "date": "2023-12-10",
+        "condition": "Year-End Clearance",
+        "commission_rate": "10%",
+        "additional_info": "Limited Time"
+      }
+    ],
+    "normal_link": "https://example.com/tech-tracking-link",
+    "short_link": "https://exa.mp/tech-short-link",
+    "contact_info": [
+      "info@techinnovations.com",
+      "+1234567890",
+      "1234 Innovation Blvd, Tech City, US"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "Tech Innovations",
+        "offer_name": "Smart Home Bundle",
+        "creative_name": "Smart123",
+        "offer_code": "SMART123OFF",
+        "start_date": "2023-11-01",
+        "end_date": "2023-11-15"
+      },
+      {
+        "id": 2,
+        "advertiser": "Tech Innovations",
+        "offer_name": "Gadget Extravaganza",
+        "creative_name": "Gadg456",
+        "offer_code": "GADG456SALE",
+        "start_date": "2023-11-10",
+        "end_date": "2023-11-25"
+      }
+    ],
+    "primary_regions": ["US"],
+    "supported_regions": ["US", "CA", "UK"],
+    "categories": ["Technology", "Innovations"]
+  },
+  {
+    "id": 6,
+    "imgSrc": "https://placehold.co/1000/caf4ff/003340?text=Gadget&font=poppins",
+    "title": "Gadget Galaxy",
+    "commission": "7%",
+    "region": "UK",
+    "apc": 36,
+    "preferred_promotional": [
+      "Social Media",
+      "Content Site"
+    ],
+    "restricted": [
+      "PPC Site",
+      "TM+ Bidding"
+    ],
+    "isJoined": false,
+    "about": "Gadget Galaxy is a haven for tech enthusiasts. They curate the latest and coolest gadgets from around the world, offering a wide range of electronic marvels for gadget lovers.",
+    "commission_rates": [
+      {
+        "date": "2023-10-30",
+        "condition": "All Affiliates",
+        "commission_rate": "85%",
+        "additional_info": "LinksCircle Rate"
+      }
+    ],
+    "normal_link": "https://example.com/gadget-tracking-link",
+    "short_link": "https://exa.mp/gadget-short-link",
+    "contact_info": [
+      "info@gadgetgalaxy.co.uk",
+      "+1234567890",
+      "456 Tech Street, Gadget Town, UK"
+    ],
+    "creative_table": [
+      {
+        "id": 1,
+        "advertiser": "Gadget Galaxy",
+        "offer_name": "Tech Marvels Sale",
+        "creative_name": "Marvel456",
+        "offer_code": "MARVEL456SALE",
+        "start_date": "2023-11-05",
+        "end_date": "2023-11-20"
+      },
+      {
+        "id": 2,
+        "advertiser": "Gadget Galaxy",
+        "offer_name": "Gadget Expo",
+        "creative_name": "Expo789",
+        "offer_code": "EXPO789OFFER",
+        "start_date": "2023-11-15",
+        "end_date": "2023-11-30"
+      }
+    ],
+    "primary_regions": ["UK"],
+    "supported_regions": ["UK", "US", "CA"],
+    "categories": ["Electronics", "Gadgets"]
+  }
+]

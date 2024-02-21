@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "advertiser": "Google",
+    "offerName": "10% off on all products",
+    "code": "GOOGLE10",
+    "startEndDates": "2023-06-01 - 2023-08-31",
+    "discountType": "Percentage",
+    "discountAmount": 10,
+    "trackingLink": "https://tracking.google.com/GOOGLE10",
+    "termsAndConditions": "Terms and conditions for Google's 10% off offer."
+  },
+  {
+    "id": 2,
+    "advertiser": "Amazon",
+    "offerName": "Free shipping on all orders over ₹500",
+    "code": "FREESHIPPING",
+    "startEndDates": "2023-11-24 - 2023-11-27",
+    "discountType": "Free",
+    "discountAmount": 0,
+    "trackingLink": "https://tracking.amazon.com/FREESHIPPING",
+    "termsAndConditions": "Terms and conditions for Amazon's free shipping offer."
+  },
+  {
+    "id": 3,
+    "advertiser": "Flipkart",
+    "offerName": "25% off on electronics",
+    "code": "FLIPKART25",
+    "startEndDates": "2023-10-24 - 2023-10-31",
+    "discountType": "Percentage",
+    "discountAmount": 25,
+    "trackingLink": "https://tracking.flipkart.com/FLIPKART25",
+    "termsAndConditions": "Terms and conditions for Flipkart's 25% off on electronics offer."
+  },
+  {
+    "id": 4,
+    "advertiser": "Myntra",
+    "offerName": "50% off on clothing",
+    "code": "MYNTRA50",
+    "startEndDates": "2023-12-01 - 2023-12-31",
+    "discountType": "Percentage",
+    "discountAmount": 50,
+    "trackingLink": "https://tracking.myntra.com/MYNTRA50",
+    "termsAndConditions": "Terms and conditions for Myntra's 50% off on clothing offer."
+  },
+  {
+    "id": 5,
+    "advertiser": "Swiggy",
+    "offerName": "10% off on food delivery",
+    "code": "SWIGGY10",
+    "startEndDates": "2023-07-20 - 2023-07-25",
+    "discountType": "Percentage",
+    "discountAmount": 10,
+    "trackingLink": "https://tracking.swiggy.com/SWIGGY10",
+    "termsAndConditions": "Terms and conditions for Swiggy's 10% off on food delivery offer."
+  },
+  {
+    "id": 6,
+    "advertiser": "Zomato",
+    "offerName": "Free delivery on orders over ₹300",
+    "code": "ZOMATOFreeDelivery",
+    "startEndDates": "2023-08-01 - 2023-08-31",
+    "discountType": "Free",
+    "discountAmount": 0,
+    "trackingLink": "https://tracking.zomato.com/ZOMATOFreeDelivery",
+    "termsAndConditions": "Terms and conditions for Zomato's free delivery offer."
+  },
+  {
+    "id": 7,
+    "advertiser": "Netflix",
+    "offerName": "3 months free subscription",
+    "code": "NETFLIX3MONTHSFREE",
+    "startEndDates": "2023-09-01 - 2023-08-31",
+    "discountType": "Free",
+    "discountAmount": 0,
+    "trackingLink": "https://tracking.netflix.com/NETFLIX3MONTHSFREE",
+    "termsAndConditions": "Terms and conditions for Netflix's 3 months free subscription offer."
+  },
+  {
+    "id": 8,
+    "advertiser": "Amazon Prime Video",
+    "offerName": "1 month free subscription",
+    "code": "AMAZONPRIMEVIDEO1MONTHFREE",
+    "startEndDates": "2023-07-01 - 2023-07-31",
+    "discountType": "Free",
+    "discountAmount": 0,
+    "trackingLink": "https://tracking.amazonprimevideo.com/AMAZONPRIMEVIDEO1MONTHFREE",
+    "termsAndConditions": "Terms and conditions for Amazon Prime Video's 1 month free subscription offer."
+  },
+  {
+    "id": 9,
+    "advertiser": "Disney+ Hotstar",
+    "offerName": "1 year free subscription",
+    "code": "DISNEYPLUSHOTSTAR1YEARFREE",
+    "startEndDates": "2023-08-01 - 2023-07-31",
+    "discountType": "Free",
+    "discountAmount": 0,
+    "trackingLink": "https://tracking.disneyhotstar.com/DISNEYPLUSHOTSTAR1YEARFREE",
+    "termsAndConditions": "Terms and conditions for Disney+ Hotstar's 1 year free subscription offer."
+  }
+]

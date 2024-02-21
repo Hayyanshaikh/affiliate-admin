@@ -1,0 +1,56 @@
+[
+  {
+    "advertiser": "Google",
+    "landingPage": "https://www.google.com/",
+    "trackingLink": "https://www.google.com/?utm_source=textlink&utm_medium=banner&utm_campaign=summersale",
+    "sudID": "1234567890"
+  },
+  {
+    "advertiser": "Amazon",
+    "landingPage": "https://www.amazon.in/",
+    "trackingLink": "https://www.amazon.in/?utm_source=textlink&utm_medium=banner&utm_campaign=blackfridaysale",
+    "sudID": "9876543210"
+  },
+  {
+    "advertiser": "Flipkart",
+    "landingPage": "https://www.flipkart.com/",
+    "trackingLink": "https://www.flipkart.com/?utm_source=textlink&utm_medium=banner&utm_campaign=diwalisale",
+    "sudID": "0987654321"
+  },
+  {
+    "advertiser": "Myntra",
+    "landingPage": "https://www.myntra.com/",
+    "trackingLink": "https://www.myntra.com/?utm_source=textlink&utm_medium=banner&utm_campaign=wintersale",
+    "sudID": "1098765432"
+  },
+  {
+    "advertiser": "Swiggy",
+    "landingPage": "https://www.swiggy.com/",
+    "trackingLink": "https://www.swiggy.com/?utm_source=textlink&utm_medium=banner&utm_campaign=megasale",
+    "sudID": "1198765432"
+  },
+  {
+    "advertiser": "Zomato",
+    "landingPage": "https://www.zomato.com/",
+    "trackingLink": "https://www.zomato.com/?utm_source=textlink&utm_medium=banner&utm_campaign=monthlysale",
+    "sudID": "1298765432"
+  },
+  {
+    "advertiser": "Netflix",
+    "landingPage": "https://www.netflix.com/",
+    "trackingLink": "https://www.netflix.com/?utm_source=textlink&utm_medium=banner&utm_campaign=annualsubscription",
+    "sudID": "1398765432"
+  },
+  {
+    "advertiser": "Amazon Prime Video",
+    "landingPage": "https://www.primevideo.com/",
+    "trackingLink": "https://www.primevideo.com/?utm_source=textlink&utm_medium=banner&utm_campaign=monthlysubscription",
+    "sudID": "1498765432"
+  },
+  {
+    "advertiser": "Disney+ Hotstar",
+    "landingPage": "https://www.disneyplushotstar.com/",
+    "trackingLink": "https://www.disneyplushotstar.com/?utm_source=textlink&utm_medium=banner&utm_campaign=yearlysubscription",
+    "sudID": "1598765432"
+  }
+]

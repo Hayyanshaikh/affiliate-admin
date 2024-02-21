@@ -1,0 +1,20 @@
+[
+  {
+    "advertiser_id": 1,
+    "transactions": 150,
+    "clicks": 120,
+    "conversionRatio": 0.8
+  },
+  {
+    "advertiser_id": 2,
+    "transactions": 200,
+    "clicks": 180,
+    "conversionRatio": 0.9
+  },
+  {
+    "advertiser_id": 3,
+    "transactions": 180,
+    "clicks": 150,
+    "conversionRatio": 0.83
+  }
+]
